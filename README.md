@@ -2,7 +2,7 @@
 - 👀 I’m interested in DEVELOPING NEW THINGS
 - 🌱 I’m currently learning SOFTWARE DEVELOPMENT
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me MY EMAIL
+- 📫 How to reach me cleverkarenzi822@gmail.com
 
 <!---
 clever822/clever822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
